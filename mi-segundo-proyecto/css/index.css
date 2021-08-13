@@ -1,0 +1,5 @@
+.bg-hero{
+ background-color:hsl(224, 100%, 88%);
+ background-image: url("../images/pattern-background-desktop.svg");
+ background-repeat : no-repeat;
+}
